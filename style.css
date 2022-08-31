@@ -22,14 +22,89 @@
     font-weight: 700;
     font-size: 19px;
     line-height: 24px;
-    letter-spacing: -0.02em;
+    text-decoration: none;
 }
 
+.container{
 
+}
 
+.left{
+    margin-left: 100px;
+}
 
+.leftTop{
+    width: 624px;
+    height: 300px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #ebedef;
+}
 
+.leftTop h1{
+    font-family: 'Encode Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 67px;
+    margin-top: 20px;
+    color: #C4160C;
+}
+.informationSecundaries p{
+    font-family: 'Encode Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #303134;
+    margin-top: 20px;
+}
 
+.leftBottomOne{
+    width: 624px;
+    height: 300px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #ebedef;
+    display: flex;
+}
+.newsLeft{
+    width: 200px;
+    height: 310px;
+}
+
+.newsLeft img{
+    width: 180px;
+    height: 110px;
+    border-radius: 12px;
+}
+
+.newsLeft p{
+    font-family: 'Encode Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #C4170C;
+    padding-top: 8px;
+}
+
+.newsLeft a{
+    font-family: 'Encode Sans';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #2F3134;
+    padding-top: 10px;
+    text-decoration: none;
+}
+
+.newsLeft h5{
+    font-family: 'Encode Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #2F3134;
+    padding-top: 8px;
+}
 
 .claret {
     color: #c4170c;
