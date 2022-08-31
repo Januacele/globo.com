@@ -1,0 +1,82 @@
+.topo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 22px;
+}
+
+.guias{
+    height: 40px;
+    margin-top: 22px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-top: 1px solid #ebedef;
+    border-bottom: 1px solid #ebedef;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.guias a {
+    font-family: 'Encode Sans';
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+}
+
+
+
+
+
+
+
+.claret {
+    color: #c4170c;
+  }
+
+.green {
+    color: #16ae54;
+  }
+.orange {
+    color: #ec8006;
+  }
+  
+.red {
+    color: #c3170c;
+  }
+.blue {
+    color: #1e4b9b;
+  }
+.darkGreen {
+    color: #006766;
+  }
+.lightGreen {
+    color: #07aa47;
+  }
+.darkOrange {
+    color: #e3662b;
+  }
+  
+.darkpink {
+    color: #fb0735;
+  }
+  
+.pink {
+    color: #ff75bb;
+  }
+  
+.darkyellow {
+    color: #ec7d00;
+  }
+  
+.grey {
+    color: #323333;
+  }
+.purple {
+    color: #a81d83;
+  }
+.grey {
+    color: #303134;
+  }
+  
