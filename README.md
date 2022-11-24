@@ -26,7 +26,14 @@ Faça o clone desse repositório na sua maquina:
 ```
 git clone git@github.com:Januacele/globo.com.git
 ```
+Instale as dependências do projeto
 
-Caso esteja usando o vscode, abra com live server e isso já irá mostrar a página no seu navegador.
+```
+npm install
+```
+Rode a aplicação
 
+```
+npm run dev
+```
 
